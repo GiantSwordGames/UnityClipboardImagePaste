@@ -1,0 +1,12 @@
+{
+    "name": "com.giantsword.clipboardimage",
+    "version": "1.0.0",
+    "displayName": "Unity Clipboard Image Paste",
+    "description": "Paste images directly into unity using ctrl-v",
+    "author": {
+        "name": "Richard Pieterse",
+        "email": "giantswordgames@gmail.com"
+    },
+    "dependencies": {
+    }
+}
